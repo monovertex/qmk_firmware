@@ -1,0 +1,7 @@
+#pragma once
+
+#define PERMISSIVE_HOLD
+#define IGNORE_MOD_TAP_INTERRUPT
+#define MASTER_RIGHT
+#define TAPPING_TERM 170
+#define RGBLIGHT_SPLIT
